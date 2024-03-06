@@ -21,4 +21,4 @@ function ehFibonacci(num) {
 const numero = 34;
 const resultado = ehFibonacci(numero) ? 'pertence' : 'não pertence';
 
-console.log(`O número ${numero} ${resultado} à sequência de Fibonacci.`);
+console.log(`O número ${numero} ${resultado} à sequência de Fibonacci.`); // Neste caso vai sair que pertence, já que 34 pertence

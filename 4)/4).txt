@@ -1,2 +1,0 @@
-Questão 4)
-Ligaria 2 lampadas aleatorias, então ja descobriria qual interruptor é da sala que não ligou e anotaria qual lampada é de qual interruptor, em seguida desligaria uma das lampadas ligadas, assim ja iria descobrir mais uma que desligou e anotaria também, e consequentemente descobriria a outra que ficou ligada desde a primeira tentativa.
